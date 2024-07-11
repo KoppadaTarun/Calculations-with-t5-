@@ -1,0 +1,403 @@
+input,output
+What is the sum of 3 and 5?,sum 3 5
+Add 6 + 9,Add 6 9
+2 + 2,sum 2 2
+Sum 10 and 15,sum 10 15
+Subtract 30 from 90,subtract 90 30
+90 - 30,subtract 90 30
+Minus 20 from 50,subtract 50 20
+Subtract 7 from 14,subtract 14 7
+Multiply 4 by 6,multiply 4 6
+4 * 6,multiply 4 6
+30 times 9,multiply 30 9
+Multiply 7 with 8,multiply 7 8
+Divide 20 by 4,divide 20 4
+20 / 4,divide 20 4
+Divide 100 by 10,divide 100 10
+What is 40 divided by 5?,divide 40 5
+What is the sum of 8 and 12?,sum 8 12
+Add 15 + 25,sum 15 25
+7 + 3,sum 7 3
+Sum 14 and 16,sum 14 16
+Subtract 40 from 70,subtract 70 40
+60 - 20,subtract 60 20
+Minus 30 from 80,subtract 80 30
+Subtract 5 from 9,subtract 9 5
+Multiply 5 by 7,multiply 5 7
+6 * 7,multiply 6 7
+25 times 4,multiply 25 4
+Multiply 9 with 9,multiply 9 9
+Divide 36 by 6,divide 36 6
+50 / 10,divide 50 10
+Divide 81 by 9,divide 81 9
+What is 56 divided by 8?,divide 56 8
+What is the sum of 9 and 11?,sum 9 11
+Add 14 + 13,sum 14 13
+3 + 6,sum 3 6
+Sum 7 and 8,sum 7 8
+Subtract 60 from 120,subtract 120 60
+150 - 75,subtract 150 75
+Minus 10 from 100,subtract 100 10
+Subtract 20 from 30,subtract 30 20
+Multiply 10 by 10,multiply 10 10
+8 * 5,multiply 8 5
+45 times 2,multiply 45 2
+Multiply 6 with 7,multiply 6 7
+Divide 72 by 8,divide 72 8
+100 / 5,divide 100 5
+Divide 64 by 8,divide 64 8
+What is 81 divided by 3?,divide 81 3
+What is the sum of 1 and 2?,sum 1 2
+Add 4 + 5,sum 4 5
+6 + 1,sum 6 1
+Sum 5 and 9,sum 5 9
+Subtract 15 from 45,subtract 45 15
+25 - 5,subtract 25 5
+Minus 12 from 60,subtract 60 12
+Subtract 3 from 11,subtract 11 3
+Multiply 7 by 9,multiply 7 9
+2 * 8,multiply 2 8
+36 times 3,multiply 36 3
+Multiply 8 with 2,multiply 8 2
+Divide 90 by 9,divide 90 9
+49 / 7,divide 49 7
+Divide 25 by 5,divide 25 5
+What is 24 divided by 6?,divide 24 6
+What is the sum of 12 and 18?,sum 12 18
+Add 17 + 23,sum 17 23
+4 + 7,sum 4 7
+Sum 11 and 13,sum 11 13
+Subtract 70 from 140,subtract 140 70
+200 - 50,subtract 200 50
+Minus 5 from 15,subtract 15 5
+Subtract 10 from 20,subtract 20 10
+Multiply 3 by 12,multiply 3 12
+5 * 4,multiply 5 4
+55 times 3,multiply 55 3
+Multiply 2 with 6,multiply 2 6
+Divide 48 by 8,divide 48 8
+15 / 3,divide 15 3
+Divide 99 by 11,divide 99 11
+What is 77 divided by 7?,divide 77 7
+What is the sum of 5 and 6?,sum 5 6
+Add 9 + 8,sum 9 8
+10 + 20,sum 10 20
+Sum 3 and 4,sum 3 4
+Subtract 25 from 50,subtract 50 25
+55 - 15,subtract 55 15
+Minus 8 from 24,subtract 24 8
+Subtract 6 from 18,subtract 18 6
+Multiply 6 by 5,multiply 6 5
+7 * 8,multiply 7 8
+22 times 2,multiply 22 2
+Multiply 11 with 11,multiply 11 11
+Divide 63 by 9,divide 63 9
+30 / 6,divide 30 6
+Divide 42 by 7,divide 42 7
+What is 54 divided by 9?,divide 54 9
+input,output
+What is the sum of 3 and 5?,sum 3 5
+Add 6 + 9,sum 6 9
+2 + 2,sum 2 2
+Sum 10 and 15,sum 10 15
+Subtract 30 from 90,subtract 90 30
+90 - 30,subtract 90 30
+Minus 20 from 50,subtract 50 20
+Subtract 7 from 14,subtract 14 7
+Multiply 4 by 6,multiply 4 6
+4 * 6,multiply 4 6
+30 times 9,multiply 30 9
+Multiply 7 with 8,multiply 7 8
+Divide 20 by 4,divide 20 4
+20 / 4,divide 20 4
+Divide 100 by 10,divide 100 10
+What is 40 divided by 5?,divide 40 5
+What is the sum of 8 and 12?,sum 8 12
+Add 15 + 25,sum 15 25
+7 + 3,sum 7 3
+Sum 14 and 16,sum 14 16
+Subtract 40 from 70,subtract 70 40
+60 - 20,subtract 60 20
+Minus 30 from 80,subtract 80 30
+Subtract 5 from 9,subtract 9 5
+Multiply 5 by 7,multiply 5 7
+6 * 7,multiply 6 7
+25 times 4,multiply 25 4
+Multiply 9 with 9,multiply 9 9
+Divide 36 by 6,divide 36 6
+50 / 10,divide 50 10
+Divide 81 by 9,divide 81 9
+What is 56 divided by 8?,divide 56 8
+What is the sum of 9 and 11?,sum 9 11
+Add 14 + 13,sum 14 13
+3 + 6,sum 3 6
+Sum 7 and 8,sum 7 8
+Subtract 60 from 120,subtract 120 60
+150 - 75,subtract 150 75
+Minus 10 from 100,subtract 100 10
+Subtract 20 from 30,subtract 30 20
+Multiply 10 by 10,multiply 10 10
+8 * 5,multiply 8 5
+45 times 2,multiply 45 2
+Multiply 6 with 7,multiply 6 7
+Divide 72 by 8,divide 72 8
+100 / 5,divide 100 5
+Divide 64 by 8,divide 64 8
+What is 81 divided by 3?,divide 81 3
+What is the sum of 1 and 2?,sum 1 2
+Add 4 + 5,sum 4 5
+6 + 1,sum 6 1
+Sum 5 and 9,sum 5 9
+Subtract 15 from 45,subtract 45 15
+25 - 5,subtract 25 5
+Minus 12 from 60,subtract 60 12
+Subtract 3 from 11,subtract 11 3
+Multiply 7 by 9,multiply 7 9
+2 * 8,multiply 2 8
+36 times 3,multiply 36 3
+Multiply 8 with 2,multiply 8 2
+Divide 90 by 9,divide 90 9
+49 / 7,divide 49 7
+Divide 25 by 5,divide 25 5
+What is 24 divided by 6?,divide 24 6
+What is the sum of 12 and 18?,sum 12 18
+Add 17 + 23,sum 17 23
+4 + 7,sum 4 7
+Sum 11 and 13,sum 11 13
+Subtract 70 from 140,subtract 140 70
+200 - 50,subtract 200 50
+Minus 5 from 15,subtract 15 5
+Subtract 10 from 20,subtract 20 10
+Multiply 3 by 12,multiply 3 12
+5 * 4,multiply 5 4
+55 times 3,multiply 55 3
+Multiply 2 with 6,multiply 2 6
+Divide 48 by 8,divide 48 8
+15 / 3,divide 15 3
+Divide 99 by 11,divide 99 11
+What is 77 divided by 7?,divide 77 7
+What is the sum of 5 and 6?,sum 5 6
+Add 9 + 8,sum 9 8
+10 + 20,sum 10 20
+Sum 3 and 4,sum 3 4
+Subtract 25 from 50,subtract 50 25
+55 - 15,subtract 55 15
+Minus 8 from 24,subtract 24 8
+Subtract 6 from 18,subtract 18 6
+Multiply 6 by 5,multiply 6 5
+7 * 8,multiply 7 8
+22 times 2,multiply 22 2
+Multiply 11 with 11,multiply 11 11
+Divide 63 by 9,divide 63 9
+30 / 6,divide 30 6
+Divide 42 by 7,divide 42 7
+What is 54 divided by 9?,divide 54 9
+What is 10 times 10?,multiply 10 10
+9 times 5,multiply 9 5
+8 times 4,multiply 8 4
+7 times 3,multiply 7 3
+What is 20 times 5?,multiply 20 5
+15 times 2,multiply 15 2
+6 times 6,multiply 6 6
+What is 12 times 4?,multiply 12 4
+10 divided by 2,divide 10 2
+What is 50 divided by 5?,divide 50 5
+100 divided by 25,divide 100 25
+9 divided by 3,divide 9 3
+7 divided by 1,divide 7 1
+14 divided by 2,divide 14 2
+30 divided by 3,divide 30 3
+What is 60 divided by 6?,divide 60 6
+input,output
+What is the sum of 3 and 5?,sum 3 5
+Add 6 + 9,sum 6 9
+2 + 2,sum 2 2
+Sum 10 and 15,sum 10 15
+Subtract 30 from 90,subtract 90 30
+90 - 30,subtract 90 30
+Minus 20 from 50,subtract 50 20
+Subtract 7 from 14,subtract 14 7
+Multiply 4 by 6,multiply 4 6
+4 * 6,multiply 4 6
+30 times 9,multiply 30 9
+Multiply 7 with 8,multiply 7 8
+Divide 20 by 4,divide 20 4
+20 / 4,divide 20 4
+Divide 100 by 10,divide 100 10
+What is 40 divided by 5?,divide 40 5
+What is the sum of 8 and 12?,sum 8 12
+Add 15 + 25,sum 15 25
+7 + 3,sum 7 3
+Sum 14 and 16,sum 14 16
+Subtract 40 from 70,subtract 70 40
+60 - 20,subtract 60 20
+Minus 30 from 80,subtract 80 30
+Subtract 5 from 9,subtract 9 5
+Multiply 5 by 7,multiply 5 7
+6 * 7,multiply 6 7
+25 times 4,multiply 25 4
+Multiply 9 with 9,multiply 9 9
+Divide 36 by 6,divide 36 6
+50 / 10,divide 50 10
+Divide 81 by 9,divide 81 9
+What is 56 divided by 8?,divide 56 8
+What is the sum of 9 and 11?,sum 9 11
+Add 14 + 13,sum 14 13
+3 + 6,sum 3 6
+Sum 7 and 8,sum 7 8
+Subtract 60 from 120,subtract 120 60
+150 - 75,subtract 150 75
+Minus 10 from 100,subtract 100 10
+Subtract 20 from 30,subtract 30 20
+Multiply 10 by 10,multiply 10 10
+8 * 5,multiply 8 5
+45 times 2,multiply 45 2
+Multiply 6 with 7,multiply 6 7
+Divide 72 by 8,divide 72 8
+100 / 5,divide 100 5
+Divide 64 by 8,divide 64 8
+What is 81 divided by 3?,divide 81 3
+What is the sum of 1 and 2?,sum 1 2
+Add 4 + 5,sum 4 5
+6 + 1,sum 6 1
+Sum 5 and 9,sum 5 9
+Subtract 15 from 45,subtract 45 15
+25 - 5,subtract 25 5
+Minus 12 from 60,subtract 60 12
+Subtract 3 from 11,subtract 11 3
+Multiply 7 by 9,multiply 7 9
+2 * 8,multiply 2 8
+36 times 3,multiply 36 3
+Multiply 8 with 2,multiply 8 2
+Divide 90 by 9,divide 90 9
+49 / 7,divide 49 7
+Divide 25 by 5,divide 25 5
+What is 24 divided by 6?,divide 24 6
+What is the sum of 12 and 18?,sum 12 18
+Add 17 + 23,sum 17 23
+4 + 7,sum 4 7
+Sum 11 and 13,sum 11 13
+Subtract 70 from 140,subtract 140 70
+200 - 50,subtract 200 50
+Minus 5 from 15,subtract 15 5
+Subtract 10 from 20,subtract 20 10
+Multiply 3 by 12,multiply 3 12
+5 * 4,multiply 5 4
+55 times 3,multiply 55 3
+Multiply 2 with 6,multiply 2 6
+Divide 48 by 8,divide 48 8
+15 / 3,divide 15 3
+Divide 99 by 11,divide 99 11
+What is 77 divided by 7?,divide 77 7
+What is the sum of 5 and 6?,sum 5 6
+Add 9 + 8,sum 9 8
+10 + 20,sum 10 20
+Sum 3 and 4,sum 3 4
+Subtract 25 from 50,subtract 50 25
+55 - 15,subtract 55 15
+Minus 8 from 24,subtract 24 8
+Subtract 6 from 18,subtract 18 6
+Multiply 6 by 5,multiply 6 5
+7 * 8,multiply 7 8
+22 times 2,multiply 22 2
+Multiply 11 with 11,multiply 11 11
+Divide 63 by 9,divide 63 9
+30 / 6,divide 30 6
+Divide 42 by 7,divide 42 7
+What is 54 divided by 9?,divide 54 9
+What is 10 times 10?,multiply 10 10
+9 times 5,multiply 9 5
+8 times 4,multiply 8 4
+7 times 3,multiply 7 3
+What is 20 times 5?,multiply 20 5
+15 times 2,multiply 15 2
+6 times 6,multiply 6 6
+What is 12 times 4?,multiply 12 4
+10 divided by 2,divide 10 2
+What is 50 divided by 5?,divide 50 5
+100 divided by 25,divide 100 25
+9 divided by 3,divide 9 3
+7 divided by 1,divide 7 1
+14 divided by 2,divide 14 2
+30 divided by 3,divide 30 3
+What is 60 divided by 6?,divide 60 6
+What is 18 plus 22?,sum 18 22
+Add 32 and 14,sum 32 14
+7 plus 5,sum 7 5
+What is 16 added to 4?,sum 16 4
+Minus 7 from 49,subtract 49 7
+Subtract 8 from 56,subtract 56 8
+6 minus 2,subtract 6 2
+21 minus 7,subtract 21 7
+Multiply 3 and 7,multiply 3 7
+11 times 5,multiply 11 5
+What is 4 multiplied by 9?,multiply 4 9
+Multiply 13 and 3,multiply 13 3
+Divide 84 by 12,divide 84 12
+72 / 9,divide 72 9
+45 divided by 9,divide 45 9
+What is 88 divided by 8?,divide 88 8
+What is the total of 3 and 7?,sum 3 7
+Add 22 to 18,sum 22 18
+5 plus 15,sum 5 15
+How much is 4 added to 6?,sum 4 6
+Subtract 13 from 25,subtract 25 13
+26 minus 7,subtract 26 7
+14 less 9,subtract 14 9
+Minus 4 from 17,subtract 17 4
+Multiply 2 by 14,multiply 2 14
+9 times 6,multiply 9 6
+8 multiplied by 8,multiply 8 8
+Multiply 12 with 5,multiply 12 5
+Divide 42 by 6,divide 42 6
+35 divided by 5,divide 35 5
+16 / 4,divide 16 4
+Divide 50 by 10,divide 50 10
+Sum 3 and 10,sum 3 10
+What is 6 plus 14?,sum 6 14
+Add 5 to 20,sum 5 20
+11 + 9,sum 11 9
+Subtract 10 from 30,subtract 30 10
+14 minus 6,subtract 14 6
+20 less 5,subtract 20 5
+Minus 8 from 27,subtract 27 8
+Multiply 3 by 4,multiply 3 4
+7 times 6,multiply 7 6
+What is 9 multiplied by 3?,multiply 9 3
+Multiply 5 and 9,multiply 5 9
+Divide 36 by 4,divide 36 4
+28 divided by 7,divide 28 7
+18 / 6,divide 18 6
+What is 40 divided by 8?,divide 40 8
+What is the sum of 2 and 3?,sum 2 3
+Add 5 + 7,sum 5 7
+8 + 9,sum 8 9
+Sum 12 and 20,sum 12 20
+Subtract 10 from 15,subtract 15 10
+35 - 10,subtract 35 10
+Minus 4 from 9,subtract 9 4
+Subtract 3 from 12,subtract 12 3
+Multiply 2 by 10,multiply 2 10
+3 * 7,multiply 3 7
+5 times 11,multiply 5 11
+Multiply 6 with 2,multiply 6 2
+Divide 80 by 10,divide 80 10
+4-Dec,divide 12 4
+Divide 90 by 10,divide 90 10
+What is 10 divided by 5?,divide 10 5
+What is 11 times 2?,multiply 11 2
+10 times 3,multiply 10 3
+What is 7 times 7?,multiply 7 7
+6 times 9,multiply 6 9
+15 divided by 3,divide 15 3
+45 divided by 5,divide 45 5
+20 divided by 4,divide 20 4
+30 divided by 5,divide 30 5
+Subtract 8 from 10,subtract 10 8
+18 - 7,subtract 18 7
+Minus 12 from 20,subtract 20 12
+17 minus 3,subtract 17 3
+Add 3 to 5,sum 3 5
+10 plus 12,sum 10 12
+Sum 8 and 13,sum 8 13
+Add 4 and 7,sum 4 7
